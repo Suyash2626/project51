@@ -1,0 +1,37 @@
+.header{
+    font-size:larger ;
+}
+.body.img{
+    font-style: italic;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+.grid.img{
+    border: 2px solid black;
+    border-radius: 50px;;
+}
+.oragami{
+    border-radius: 20px;
+    background-color: whitesmoke;
+    padding: 30px;
+    margin: 25px;
+    
+    width: 310px;
+    font-family: fantasy;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 50x;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    margin: 0px;
+background-color: #f7f2f2;
+}
